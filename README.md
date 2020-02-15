@@ -1,7 +1,7 @@
 # madelon
  practicing feature selection pipelines
 
-Aim: To select perform proper feature selection from 103 columns.
+Aim: To perform proper feature selection from 103 columns.
 
 1. Generating Madelon like dataset.
 2. Create training and test dataset.
